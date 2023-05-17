@@ -1,0 +1,30 @@
+/* 
+  Localizable.strings
+  CleanArchitectureExamples
+
+  Created by Madrit Kacabumi on 6.5.23.
+  
+*/
+
+"key.currency.dollar" = "$";
+"key.button.done" = "Done";
+"key.button.retry" = "Retry";
+"key.message.noInternetConnection" = "Network connection \n seems to be offline. \n Please check your connectivity";
+"key.message.genericErrorMessage" = "Something went wrong. \n Please retry again.";
+
+// MARK: - Transactions List
+
+"key.transactions.list.navBarTitle" = "Transactions";
+"key.transactions.list.category.label" = "Category:";
+"key.transactions.list.selectCategory" = "Select Category";
+"key.transactions.list.categoryName" = "Category_%d";
+"key.transactions.list.totalString" = "Total amount: %@";
+
+// MARK: - Transactions Detail
+
+"key.transactions.detail.label.partnerName" = "Partner Name";
+"key.transactions.detail.label.reference" = "Reference";
+"key.transactions.detail.label.amount" = "Amount";
+"key.transactions.detail.label.category" = "Category";
+"key.transactions.detail.label.description" = "Description";
+"key.transactions.detail.label.transactionDate" = "Transaction Date";

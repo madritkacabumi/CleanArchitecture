@@ -1,0 +1,61 @@
+{
+  "items" : [
+    {
+      "id": 1,
+      "partner_display_name" : "Shop 1",
+      "reference": "A123456789AB",
+      "category_id" : 1,
+      "transactionDetail" : {
+        "description" : "Transaction 1 performed",
+        "transactionDate" : "2021-07-24T10:59:05+0200",
+        "amount" : 124,
+        "currency" : "$",
+      }
+    },{
+    "id": 2,
+      "partner_display_name" : "Shop 2",
+      "reference": "B123456789AC",
+      "category_id" : 2,
+      "transactionDetail" : {
+        "description" : "Transaction 2 performed",
+        "transactionDate" : "2021-08-24T10:59:05+0200",
+        "amount" : 15,
+        "currency" : "$",
+      }
+    },{
+      "id": 3,
+      "partner_display_name" : "Shop 3",
+      "reference": "C123456789AD",
+      "category_id" : 1,
+      "transactionDetail" : {
+        "description" : "Transaction 3 performed",
+        "transactionDate" : "2021-08-24T13:59:05+0200",
+        "amount" : 53,
+        "currency" : "$",
+      }
+    },{
+    "id": 4,
+      "partner_display_name" : "Shop 4",
+      "reference": "D123456789SF",
+      "category_id" : 3,
+      "transactionDetail" : {
+        "description" : "Transaction 4 performed",
+        "transactionDate" : "2021-12-21T10:57:05+0200",
+        "amount" : 43,
+        "currency" : "$",
+      }
+    },
+    {
+    "id": 5,
+      "partner_display_name" : "Shop 5",
+      "reference": "F123456789SF",
+      "category_id" : 4,
+      "transactionDetail" : {
+        "description" : "Transaction 5 performed",
+        "transactionDate" : "2022-01-21T10:57:05+0200",
+        "amount" : 67,
+        "currency" : "$",
+      }
+    }
+  ]
+}
