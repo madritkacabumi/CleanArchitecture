@@ -1,4 +1,4 @@
-## Clean Architecture Example App - Technical Components
+## iOS Clean Architecture Example App - Technical Components
 (Clean Architecture with Combine, SwiftUI, UIKit and Coordinator pattern) </br>
 
 The Clean Architecture structure (layers): </br>
@@ -13,3 +13,6 @@ The Clean Architecture structure (layers): </br>
 * Reactive Data Flow (Combine).
 * Tests included.
 * No External libraries used.
+
+#### USAGE
+Clone the repo, open `CleanArchitectureExamples.xcodeproj` and run the project
